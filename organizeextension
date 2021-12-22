@@ -1,7 +1,7 @@
 import os
 import glob
 import shutil
-# creating a dictionary 
+# creating a dictionary of extensions
 extensions = {
     "jpg": "images",
     "png": "images",
